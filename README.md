@@ -1,0 +1,1 @@
+# Linux_Script_-for_sonarqube
